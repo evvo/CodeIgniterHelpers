@@ -14,9 +14,9 @@ class MY_Controller extends CI_Controller {
 	 * __construct function
 	 * 
 	 */
-	public function __construct(){
+	public function __construct() {
 		parent::__construct();
-    }
+	}
         
 	/**
 	 * Loads  the header, central(one or more) and footer partials
